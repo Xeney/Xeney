@@ -11,9 +11,23 @@
 
 ### 🛠️ Технологии и инструменты
 
-- **Языки программирования**: Python, HTML, CSS, SCSS
-- **Фреймворки**: Flask, Django
-- **Инструменты дизайна**: Figma
+- **Языки программирования**: Python
+- Flask и Django для создания веб-приложений
+- FastAPI для разработки API
+- PostgreSQL, MySQL и SQLite
+- SQLAlchemy и Django ORM
+- HTML, CSS, SCSS
+- RESTful API
+- JWT, OAuth2
+- NumPy для обработки массивов данных
+- Pandas для анализа данных
+- Matplotlib и Seaborn для визуализации данных
+- Docker
+- Git
+- pytest для юнит-тестов
+- VS Code
+- Использование Markdown для создания документации
+- Figma: Инструмент для дизайна
 
 ### 📚 Портфолио
 
