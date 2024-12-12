@@ -3,6 +3,7 @@
 
 <h3 align="center">Программист из России 🇷🇺</h3>
 <img src="5ffbcb03abb1ccfaa54a6c2055e0fe58.gif">
+
 ---
 
 ### 👨‍💻 О себе
