@@ -2,4 +2,4 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Xeney)](https://github.com/Xeney/github-profile-trophy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeney&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
