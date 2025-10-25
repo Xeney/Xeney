@@ -52,23 +52,6 @@
 | **Губернатор Самарской области** | 2022 | Благодарственное письмо |
 | **Министерство образования** | 2022 | Благодарственное письмо |
 
-## 📊 Статистика
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xeney&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xeney&layout=compact&theme=radical&hide_border=true)
-
-<!-- Строка активности -->
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Xeney&theme=react&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Готов к интересным задачам и амбициозным проектам!
 
 [![Telegram Contact](https://img.shields.io/badge/Связаться_со_мной-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Ghosers)
