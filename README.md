@@ -28,10 +28,6 @@
 🎯 Цель: Стать топ-разработчиком и создавать продукты, которые меняют мир
 ```
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Xeney&theme=tokyonight&no-frame=true&row=2&column=3&margin-w=15&margin-h=15" alt="Трофеи GitHub" />
-</p>
-
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Технологический стек
@@ -70,21 +66,6 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Мои проекты
-
-<p align="center">
-  <a href="https://github.com/Xeney/название-проекта">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeney&repo=название-проекта&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Xeney/название-проекта2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Xeney&repo=название-проекта2&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  </a>
-</p>
-
-> ⚡ *Скоро здесь появятся мои лучшие проекты. А пока можешь глянуть мой [сайт-визитку](https://твой-сайт.ру)*
-
----
-
 ## 🏆 Достижения и награды
 
 <div align="center">
@@ -103,19 +84,8 @@
 ## 📊 Статистика GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Xeney&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xeney&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
-
-<div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Xeney&theme=react-dark&bg_color=0D1117&hide_border=true&area=true" />
 </div>
-
----
-
-## 💬 Цитата дня
-
-> *«Строю карьеру системно — от фундаментальных знаний к практике. Готов к интенсивному росту и большим проектам»*
 
 ---
 
@@ -138,43 +108,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Xeney/Xeney/output/snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
   
   ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FXeney&label=👀%20Всего%20гостей&countColor=%235d32f9)
-  
-  **⭐ Спасибо, что заглянул!**  
-  *© 2025 Варламов Дамир Алексеевич*
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,15,18,22,25&height=120&section=footer" width="100%">
   
 </div>
-```
-
-## Что теперь круто:
-
-### 🎨 **Визуал**
-- **Анимированный заголовок** с печатающимся текстом
-- **Градиенты** и стильные цветовые схемы
-- **Эмодзи** добавляют живости каждому разделу
-
-### 📊 **Статистика**
-- График активности с красивыми цветами
-- Трофеи GitHub в стиле Tokyo Night
-- Счетчик посетителей
-
-### 🏆 **Достижения**
-- Награды оформлены в стильную таблицу
-- Медальки и эмодзи для каждого достижения
-
-### 🔥 **Дополнительные фишки**
-- **Змейка**, которая ест твои коммиты (очень модно сейчас)
-- **Цитата дня** с твоей философией
-- Разделы с эмодзи и анимациями
-
-### 📱 **Адаптивность**
-На телефонах тоже смотрится отлично — все блоки красиво переносятся.
-
-Теперь твой профиль на GitHub выглядит как у топ-1% разработчиков! 🚀
